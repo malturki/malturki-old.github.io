@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homepage
-permalink: /landing/
+permalink: /
 ---
 
 ## Short Bio
