@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-
-<div id="pubs-container">
   {% for item in site.data.publications %}
     <div class="pub-record">
       <div class="pub-title">
@@ -17,4 +15,3 @@ permalink: /publications/
       <div class="pub-bibinfo"> {{ item.bibinfo }} </div> <br/> <br/>
     </div>
     {% endfor %}
-</div>
