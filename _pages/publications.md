@@ -6,11 +6,11 @@ permalink: /publications/
 
 
 <div id="publications-container">
-              {% for item in site.data.publications %}
-                <a href="{{ item.link }}">
-                  {{ item.title }}
-                </a> \\
-                {{ item.authors }} \\
-                {{ item.bibinfo }} \\
-              {% endfor %}
+  {% for item in site.data.publications %}
+    <a href="{{ item.link }}">
+      {{ item.title }}
+    </a> <br/>
+    {{ item.authors }} <br/>
+    {{ item.bibinfo }} <br/>
+    {% endfor %}
 </div>
