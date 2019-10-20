@@ -22,3 +22,45 @@
   authors: Jonas Eckhardt, Tobias Mühlbauer, Musab A. Alturki, José Meseguer and Martin Wirsing
   bibinfo: FASE’12, Springer, LNCS 7212, pp 78-93, 2012
   link: http://link.springer.com/chapter/10.1007%2F978-3-642-28872-2_6
+
+- title: "PVeStA: A Parallel Statistical Model Checking and Quantitative Analysis Tool"
+  authors: Musab A. Alturki and José Meseguer
+  bibinfo: CALCO’11, Springer, LNCS 6859, pp 386-392, 2011
+  link: https://link.springer.com/chapter/10.1007/978-3-642-22944-2_28
+
+- title: "Dist-Orc: A Rewriting-based Distributed Implementation of Orc with Formal Analysis"
+  authors: Musab A. Alturki and José Meseguer
+  bibinfo: RTRTS’10, EPTCS 36, pp 26-45, 2010
+  link: http://arxiv.org/abs/1009.4260v1
+
+- title: "Model-Checking DoS Amplification for VoIP Session Initiation"
+  authors: Ravinder Shankesi, Musab A. Alturki, Ralf Sasse, Carl A. Gunter and José Meseguer
+  bibinfo: ESORICS’09, Springer, LNCS 5789, pp 390-405, 2009
+  link: http://link.springer.com/chapter/10.1007/978-3-642-04444-1_24
+
+- title: "Formal Specification and Analysis of Timing Properties in Software Systems"
+  authors: Musab A. Alturki, Dinakar Dhurjati, Dachuan Yu, Ajay Chander and Hiroshi Inamura
+  bibinfo: FASE’09, Springer, LNCS 5503, pp 262-277, 2009
+  link: http://link.springer.com/chapter/10.1007/978-3-642-00593-0_18
+
+- title: "PBES: A Policy Based Encryption System with Application to Data Sharing in the Power Grid"
+  authors: Rakesh Bobba, Himanshu Khurana, Musab A. Alturki and Farhana Ashraf
+  bibinfo: ASIACCS’09, ACM, pp 262-275, 2009
+  link: http://dl.acm.org/citation.cfm?id=1533057.1533093
+
+- title: "Probabilistic Modeling and Analysis of DoS Protection for the ASV Protocol"
+  authors: Musab A. Alturki, José Meseguer and Carl A. Gunter
+  bibinfo: SecReT'08, ENTCS 234, pp 3–18, 2009
+  link: http://www.sciencedirect.com/science/article/pii/S1571066109000747
+
+- title: "Reduction Semantics and Formal Analysis of Orc Programs"
+  authors: Musab A. Alturki and José Meseguer
+  bibinfo: WWV'07, ENTCS 200, pp 25–41, 2008
+  link: http://www.sciencedirect.com/science/article/pii/S157106610800306X
+
+- title: "Real-Time Rewriting Semantics of Orc"
+  authors: Musab A. Alturki and José Meseguer
+  bibinfo: PPDP'07, ACM, pp 131–142, 2007
+  link: http://dl.acm.org/citation.cfm?id=1273920.1273938
+
+
