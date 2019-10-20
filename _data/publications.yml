@@ -1,3 +1,28 @@
+- title: Resource-Bounded Intruders in Denial of Service Attacks
+  authors: Abraão Aires Urquiza, Musab A. Alturki, Max Kanovich, Tajana Ban Kirigin, Vivek Nigam, Andre Scedrov and Carolyn Talcott
+  bibinfo: CSF'19, IEEE, pp 382-396, 2019
+  link: https://ieeexplore.ieee.org/document/8823756
+
+- title: A Multiset Rewriting Model for Specifying and Verifying Timing Aspects of Security Protocols
+  authors: Musab A. Alturki, Tajana Ban Kirigin, Max Kanovich, Vivek Nigam, Andre Scedrov and Carolyn Talcott
+  bibinfo: Springer, LNCS 11565, pp 192-213, 2019
+  link: https://link.springer.com/chapter/10.1007/978-3-030-19052-1_13
+
+- title: Statistical Model Checking of Distance Fraud Attacks on the Hancke-Kuhn Family of Protocols
+  authors: Musab A. Alturki, Max Kanovich, Tajana Ban Kirigin, Vivek Nigam, Andre Scedrov and Carolyn Talcott
+  bibinfo: CPS-SPC '18, ACM, pp 60-71, 2018
+  link: https://dl.acm.org/citation.cfm?id=3264895
+
+- title: "Program Comprehension through Reverse-engineered Sequence Diagrams: A Systematic Review"
+  authors: Taher A. Ghaleb, Musab A. Alturki and Khalid Aljasser
+  bibinfo: JSEP, Wiley, Volume 30(11), pp e1965, 2018
+  link: https://doi.org/10.1002/smr.1965
+
+- title: "A Symbolic Rewriting Semantics of the COMPASS Modeling Language"
+  authors: Musab A. Alturki
+  bibinfo: IRI'17, IEEE, pp 283-290, 2017
+  link: https://doi.org/10.1109/IRI.2017.62
+
 - title: Implementing the Observer Design Pattern as an Expressive Language Construct
   authors: Taher A. Ghaleb, Khalid Aljasser and Musab A. Alturki
   bibinfo: ICSEA'15, pp 463-469, 2015
