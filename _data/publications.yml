@@ -1,3 +1,18 @@
+- title: Statistical Model Checking of RANDAO's Resilience to Pre-computed Reveal Strategies
+  authors: Musab A. Alturki and Grigore Roşu Talcott
+  bibinfo: To appear, 2019
+  link: https://sites.google.com/view/fmbc/program?authuser=0
+
+- title: Towards a Verified Model of the Algorand Consensus Protocol in Coq
+  authors: Musab A. Alturki, Jing Chen, Victor Luchangco, Brandon Moore, Karl Palmskog, Lucas Peña and Grigore Roşu
+  bibinfo: To appear, 2019
+  link: https://sites.google.com/view/fmbc/program?authuser=0
+
+- title: METHODS, COMPUTER READABLE MEDIA, AND SYSTEMS FOR COMPILING CONCISE EXPRESSIVE DESIGN PATTERN SOURCE CODE
+  authors: Taher Ghaleb, Khalid Aljasser, Musab A. Alturki
+  bibinfo: Patent US010437572, USPO 2019
+  link: https://pdfpiw.uspto.gov/.piw?docid=10437572
+
 - title: Resource-Bounded Intruders in Denial of Service Attacks
   authors: Abraão Aires Urquiza, Musab A. Alturki, Max Kanovich, Tajana Ban Kirigin, Vivek Nigam, Andre Scedrov and Carolyn Talcott
   bibinfo: CSF'19, IEEE, pp 382-396, 2019
