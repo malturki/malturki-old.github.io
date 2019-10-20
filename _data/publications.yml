@@ -1,9 +1,24 @@
-- title: Towards Formal Verification of Orchestration Computations Using the K Framework
-  authors: Musab A. Alturki and Omar Alzuhaibi
-  bibinfo: FM'15, Springer, LNCS 9109, pp 40-56, 2015
-  link: http://link.springer.com/chapter/10.1007%2F978-3-319-19249-9_4
+- title: Implementing the Observer Design Pattern as an Expressive Language Construct
+  authors: Taher A. Ghaleb, Khalid Aljasser and Musab A. Alturki
+  bibinfo: ICSEA'15, pp 463-469, 2015
+  link: http://www.thinkmind.org/index.php?view=article&articleid=icsea_2015_17_40_10407
 
 - title: Executable Rewriting Logic Semantics of Orc and Formal Analysis of Orc Programs
   authors: Musab A Alturki and José Meseguer
   bibinfo: JLAMP, Volume 84(4), pp 505–533, 2015
   link: http://www.sciencedirect.com/science/article/pii/S2352220815000334
+
+- title: Towards Formal Verification of Orchestration Computations Using the K Framework
+  authors: Musab A. Alturki and Omar Alzuhaibi
+  bibinfo: FM'15, Springer, LNCS 9109, pp 40-56, 2015
+  link: http://link.springer.com/chapter/10.1007%2F978-3-319-19249-9_4
+
+- title: Sparse Single-Hidden Layer Feedforward Network for Mapping Natural Language Questions to SQL Queries
+  authors: Issam H. Laradji, Lahouari Ghouti, Faisal Saleh and Musab A. Alturki
+  bibinfo: ICANN'14, Springer, LNCS 8681, pp 241-248, 2014
+  link: http://link.springer.com/chapter/10.1007%2F978-3-319-11179-7_31
+
+- title: Stable Availability under Denial of Service Attacks through Formal Patterns
+  authors: Jonas Eckhardt, Tobias Mühlbauer, Musab A. Alturki, José Meseguer and Martin Wirsing
+  bibinfo: FASE’12, Springer, LNCS 7212, pp 78-93, 2012
+  link: http://link.springer.com/chapter/10.1007%2F978-3-642-28872-2_6

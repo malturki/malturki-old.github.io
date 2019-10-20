@@ -11,6 +11,6 @@ permalink: /publications/
       {{ item.title }}
     </a> <br/>
     {{ item.authors }} <br/>
-    {{ item.bibinfo }} <br/>
+    {{ item.bibinfo }} <br/><br/>
     {% endfor %}
 </div>
