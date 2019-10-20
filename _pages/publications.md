@@ -5,12 +5,16 @@ permalink: /publications/
 ---
 
 
-<div id="publications-container">
+<div id="pubs-container">
   {% for item in site.data.publications %}
-    <a href="{{ item.link }}">
-      {{ item.title }}
-    </a> <br/>
-    {{ item.authors }} <br/>
-    {{ item.bibinfo }} <br/><br/>
+    <div class="pub-record">
+      <div class="pub-title">
+        <a href="{{ item.link }}">
+          {{ item.title }}
+        </a>
+      </div> <br/>
+      <div class="pub-authors"> {{ item.authors }} </div> <br/>
+      <div class="pub-bibinfo"> {{ item.bibinfo }} </div> <br/> <br/>
+    </div>
     {% endfor %}
 </div>
