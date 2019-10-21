@@ -12,9 +12,9 @@ permalink: /publications/
         <a href="{{ item.link }}">
           {{ item.title }}
         </a>
-      </div> <br/>
-      <div class="pub-authors"> {{ item.authors }} </div> <br/>
-      <div class="pub-bibinfo"> {{ item.bibinfo }} </div> <br/> <br/>
+      </div>
+      <div class="pub-authors"> {{ item.authors }} </div>
+      <div class="pub-bibinfo"> {{ item.bibinfo }} </div> <br/>
     </div>
     {% endfor %}
 </div>
